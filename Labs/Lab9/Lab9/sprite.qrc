@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/idle">
+        <file alias="Idle">images/idle/Idle_1.png</file>
+    </qresource>
+    <qresource prefix="/run">
+        <file alias="Run_1">images/run/Run_1.png</file>
+        <file alias="Run_2">images/run/Run_2.png</file>
+        <file alias="Run_3">images/run/Run_3.png</file>
+        <file alias="Run_4">images/run/Run_4.png</file>
+        <file alias="Run_5">images/run/Run_5.png</file>
+        <file alias="Run_6">images/run/Run_6.png</file>
+        <file alias="Run_7">images/run/Run_7.png</file>
+        <file alias="Run_8">images/run/Run_8.png</file>
+        <file alias="Run_9">images/run/Run_9.png</file>
+        <file alias="Run_10">images/run/Run_10.png</file>
+    </qresource>
+</RCC>
