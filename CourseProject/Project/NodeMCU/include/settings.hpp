@@ -1,0 +1,6 @@
+#ifndef NODEMCU_SETTINGS_HPP
+#define NODEMCU_SETTINGS_HPP
+
+#define DEBUG
+
+#endif //NODEMCU_SETTINGS_HPP
